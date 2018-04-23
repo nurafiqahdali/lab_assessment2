@@ -178,7 +178,7 @@ form {
 }
 </style>
 <head>
-	<title>MANAGEMENT SYSTEM</title>
+	<title>ATTENDANCE MANAGEMENT SYSTEM</title>
 
 </head>
 
@@ -192,7 +192,7 @@ form {
 		</button></a>
  </div>
  <!-- end of navigation -->
-<center><h1>MANAGEMENT SYSTEM</h1></center>
+<center><h1>ATTENDANCE MANAGEMENT SYSTEM</h1></center>
 <br>
 	
 	<!-- login form -->
